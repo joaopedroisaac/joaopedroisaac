@@ -1,4 +1,4 @@
-### Hi there :computer:
+### Eii, olá :computer:
 
 Eu sou o João Pedro, sou um Dev Front-End, atualmente estou aprendendo e criando projetos com: 
 <br><br>
